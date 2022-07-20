@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/drawable/containerbackground.xml" value="0.332" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_ancientcinco.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_ancientdois.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_ancientquatro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_ancienttres.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_ancientum.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_archoncinco.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_archondois.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_archonquatro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_archontres.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_archonum.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_cruzadocinco.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_cruzadodois.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_cruzadoquatro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_cruzadotres.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_cruzadoum.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_divinecinco.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_divinedois.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_divinequatro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_divinetres.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_divineum.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_guardiancinco.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_guardiandois.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_guardianquatro.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_guardiantres.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_guardianum.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_haroldocinco.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_haroldodois.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_haroldoquatro.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_haroldotres.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_haroldoum.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_imortal.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_legendcinco.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_legenddois.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_legendquatro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_legendtres.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_legendum.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_tela_cadastro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_tela_login.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/DotaApp/app/src/main/res/layout/activity_tela_principal.xml" value="0.35260416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

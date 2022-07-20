@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.dotaapp">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DotaApp"
+        tools:targetApi="31">
+        <activity
+            android:name=".Imortal"
+            android:exported="false" />
+        <activity
+            android:name=".Divinecinco"
+            android:exported="false" />
+        <activity
+            android:name=".Divinequatro"
+            android:exported="false" />
+        <activity
+            android:name=".Divinetres"
+            android:exported="false" />
+        <activity
+            android:name=".Divinedois"
+            android:exported="false" />
+        <activity
+            android:name=".Divineum"
+            android:exported="false" />
+        <activity
+            android:name=".Ancientcinco"
+            android:exported="false" />
+        <activity
+            android:name=".Ancientquatro"
+            android:exported="false" />
+        <activity
+            android:name=".Ancienttres"
+            android:exported="false" />
+        <activity
+            android:name=".Ancientdois"
+            android:exported="false" />
+        <activity
+            android:name=".Ancientum"
+            android:exported="false" />
+        <activity
+            android:name=".Legendcinco"
+            android:exported="false" />
+        <activity
+            android:name=".Legendquatro"
+            android:exported="false" />
+        <activity
+            android:name=".Legendtres"
+            android:exported="false" />
+        <activity
+            android:name=".Legenddois"
+            android:exported="false" />
+        <activity
+            android:name=".Legendum"
+            android:exported="false" />
+        <activity
+            android:name=".Archoncinco"
+            android:exported="false" />
+        <activity
+            android:name=".Archonquatro"
+            android:exported="false" />
+        <activity
+            android:name=".Archontres"
+            android:exported="false" />
+        <activity
+            android:name=".Archondois"
+            android:exported="false" />
+        <activity
+            android:name=".Archonum"
+            android:exported="false" />
+        <activity
+            android:name=".Cruzadocinco"
+            android:exported="false" />
+        <activity
+            android:name=".Cruzadoquatro"
+            android:exported="false" />
+        <activity
+            android:name=".Cruzadotres"
+            android:exported="false" />
+        <activity
+            android:name=".Cruzadodois"
+            android:exported="false" />
+        <activity
+            android:name=".Cruzadoum"
+            android:exported="false" />
+        <activity
+            android:name=".Guardiancinco"
+            android:exported="false" />
+        <activity
+            android:name=".Guardianquatro"
+            android:exported="false" />
+        <activity
+            android:name=".Guardiantres"
+            android:exported="false" />
+        <activity
+            android:name=".Guardiandois"
+            android:exported="false" />
+        <activity
+            android:name=".Guardianum"
+            android:exported="false" />
+        <activity
+            android:name=".Haroldocinco"
+            android:exported="false" />
+        <activity
+            android:name=".Haroldoquatro"
+            android:exported="false" />
+        <activity
+            android:name=".Haroldotres"
+            android:exported="false" />
+        <activity
+            android:name=".Haroldodois"
+            android:exported="false" />
+        <activity
+            android:name=".Haroldoum"
+            android:exported="false" />
+        <activity
+            android:name=".TelaPrincipal"
+            android:exported="false" />
+        <activity
+            android:name=".TelaCadastro"
+            android:exported="false" />
+        <activity
+            android:name=".TelaLogin"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

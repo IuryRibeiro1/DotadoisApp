@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240346793503",
+    "project_id": "dotadoisapp-609d7",
+    "storage_bucket": "dotadoisapp-609d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240346793503:android:ace185b6f3ec777b79372a",
+        "android_client_info": {
+          "package_name": "com.example.dotaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240346793503-hn493sckqiph1q5r6oqinpc71h8j6c98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlQGs7k02oQhXbiy_-23GEHpk4obfORyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240346793503-hn493sckqiph1q5r6oqinpc71h8j6c98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
